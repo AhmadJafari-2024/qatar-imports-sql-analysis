@@ -158,7 +158,7 @@ This project applies several SQL concepts, including:
 
 The main findings from the analysis were:
 
-- **Top import source country:** 1.China,2.US,3.Italy,4.Japan,5.India,6.UAE,7.Germany,8.UK,9.Switzerland,10.France.
+- **Top import source country:** 1.China, 2.US, 3.Italy, 4.Japan, 5.India, 6.UAE, 7.Germany, 8.UK, 9.Switzerland, 10.France.
 - **Highest-value imported product:** Fixed platforms for drilling, boring and extracting oil and gas, Gas Turbine Of A Power Exceeding 5,000 Kw,Turbo Jets Of A Power Not Exceeding 1,100 Kw.
 - **Country with the highest imported weight:** UAE
 - **Largest share of total imports:** China , around 17.5%
